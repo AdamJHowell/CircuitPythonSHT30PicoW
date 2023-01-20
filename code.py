@@ -7,6 +7,10 @@ import adafruit_sht31d
 import board
 import busio
 
+"""
+pip install adafruit-circuitpython-sht31d
+"""
+
 sht_temp = [21.12, 21.12, 21.12]
 sht_humidity = [21.12, 21.12, 21.12]
 
